@@ -5,7 +5,7 @@
    <meta charset="utf-8">
    <meta name="description" content="Temperature Website PHP Webpage">
    <meta name="keywords" content="immaculata, ics2o">
-   <meta name="author" content="ZoiaB">
+   <meta name="author" content="Lily C">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
    <!--Code for the favicon-->

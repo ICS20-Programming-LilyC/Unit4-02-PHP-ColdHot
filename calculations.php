@@ -1,6 +1,6 @@
 <?php
 
-  //initializing variables & constant
+  //initializing variables/constants
   $temperature = floatval($_POST["temp-entered"]);
   define ("TEMP_LIMIT", 15);
   $message = "";
@@ -14,6 +14,6 @@
   else {
     $message = "This temperature would be considered cold. Prepare yourself for cooler weather!.";
   }
-  //displaying the correct message to the screen
+  //displaying the correct result to the screen
   echo "$message";
 ?>
